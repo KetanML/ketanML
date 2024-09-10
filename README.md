@@ -41,8 +41,8 @@ I'm a **Software Engineer** passionate about AI, ML, and Backend Development. Cu
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-333333?style=flat&logo=github-actions)
 ![GPU Architectures](https://img.shields.io/badge/-GPU%20Architectures-FF0000?style=flat&logo=nvidia)
 
-### 📊 GitHub Stats
-![Ketan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketanML&show_icons=true&theme=midnight-purple)
+<!--### 📊 GitHub Stats
+![Ketan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketanML&show_icons=true&theme=midnight-purple)-->
 
 ### 📫 Contact Me
 - [GitHub](https://github.com/ketanML) 
