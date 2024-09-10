@@ -49,4 +49,4 @@ I'm a **Software Engineer** passionate about AI, ML, and Backend Development. Cu
 - [LinkedIn](https://www.linkedin.com/in/ketanc79/)
 - [Email](mailto:ketanc@cs.cmu.edu)
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=ketanML&color=brightgreen)
