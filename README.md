@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ketan Chaudhary!
 
 ### 🚀 About Me
-I'm a **Software Engineer** passionate about AI, deep learning, and backend development. Currently pursuing my Master's in Software Engineering at Carnegie Mellon University, I enjoy tackling challenging problems at the intersection of AI and production systems.
+I'm a **Software Engineer** passionate about AI, ML, and Backend Development. Currently pursuing my Master's in Software Engineering at Carnegie Mellon University, I enjoy tackling challenging problems at the intersection of AI and production systems.
 
 - 🔭 Currently working on: Full-stack machine learning applications and product information management systems.
 - 🌱 Learning: Go, microservices, cloud-native development.
