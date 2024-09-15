@@ -34,36 +34,36 @@ I recently delivered a series of lectures on deep learning concepts, which are a
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
 **Frameworks & Libraries**:  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)  
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras)  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)  
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn)  
-![LangChain](https://img.shields.io/badge/-LangChain-4F8DF5?style=flat&logo=langchain)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn)
+![LangChain](https://img.shields.io/badge/-LangChain-4F8DF5?style=flat&logo=langchain)
 
 **Databases**:  
-![Azure SQL](https://img.shields.io/badge/-Azure%20SQL-1572B6?style=flat&logo=microsoft-sql-server)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis)  
-![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=flat&logo=apache-cassandra)  
+![Azure SQL](https://img.shields.io/badge/-Azure%20SQL-1572B6?style=flat&logo=microsoft-sql-server)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis)
+![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=flat&logo=apache-cassandra)
 
 **Cloud & DevOps**:  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)  
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud)  
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)  
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-333333?style=flat&logo=github-actions)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-333333?style=flat&logo=github-actions)
 
 **Version Control & Collaboration**:  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  
-![GitLab](https://img.shields.io/badge/-GitLab-330F63?style=flat&logo=gitlab)  
-![BitBucket](https://img.shields.io/badge/-BitBucket-0052CC?style=flat&logo=bitbucket)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-330F63?style=flat&logo=gitlab)
+![BitBucket](https://img.shields.io/badge/-BitBucket-0052CC?style=flat&logo=bitbucket)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
 
 <!--### 📊 GitHub Stats
 ![Ketan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketanML&show_icons=true&theme=midnight-purple)-->
