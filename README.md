@@ -8,7 +8,7 @@ I'm a **Software Engineer** passionate about AI, ML, and Backend Development. Cu
 - 💼 **Seeking:** Full-time opportunities in machine learning, AI, and software engineering roles.
 
 ### 🎥 Deep Learning Lectures
-I recently delivered a series of lectures on deep learning concepts, which are available on YouTube. Check them out below:
+I recently delivered a series of lectures on deep learning concepts at Carnegie Mellon University, which are available on YouTube. Check them out below:
 
 - **[Lecture 1: Introduction to Deep Learning](https://www.youtube.com/watch?v=o5wb7JE6F7M)**: An overview of deep learning fundamentals, covering neural networks, activation functions, and backpropagation.
 - **[Lecture 2: Debugging Deep Learning Networks](https://www.youtube.com/watch?v=yeSjFgdYwy8)**: A deep dive into how debugging is performed in deep learning nerual networks.
