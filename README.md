@@ -26,12 +26,12 @@ I recently delivered a series of lectures on deep learning concepts, which are a
 ### ⚡️ Technologies & Tools
 
 **Programming Languages**:  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)  
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=FFD43B)  
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)  
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=FFD43B)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
 **Frameworks & Libraries**:  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
