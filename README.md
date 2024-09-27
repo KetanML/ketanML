@@ -13,6 +13,7 @@ I recently delivered a series of lectures on deep learning concepts at Carnegie 
 - **[Lecture 1: Introduction to Deep Learning](https://www.youtube.com/watch?v=o5wb7JE6F7M)**: An overview of deep learning fundamentals, covering neural networks, activation functions, and backpropagation.
 - **[Lecture 2: Debugging Deep Learning Networks](https://www.youtube.com/watch?v=yeSjFgdYwy8)**: A deep dive into how debugging is performed in deep learning nerual networks.
 - **[Lecture 3: Introduction to Dataloaders](https://www.youtube.com/watch?v=wVncM1biCkA)**: An introduction to dataloaders and how to use them using PyTorch library.
+- **[Lecture 4: Convolution Neural Networks](https://www.youtube.com/watch?v=gtnMMBVmORQ)**: Introduction to CNNs and its basic building blocks.
 
 ### 🌟 Featured Projects
 
