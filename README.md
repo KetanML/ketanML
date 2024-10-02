@@ -18,6 +18,7 @@ I recently delivered a series of lectures on deep learning concepts at Carnegie 
 ### 🌟 Featured Projects
 
 - **🔍 [Product Information Management System (PIMS)](https://github.com/ketanML/PIMS)**: Developed a comprehensive product management solution with ASP.NET, Vue.js, and Azure SQL.
+- **⚙️ [Distributed Bitcoin Miner](https://github.com/15-440/15440-p1-f24-abkc)**: Built a scalable, fault-tolerant distributed system using Go and UDP for efficient job distribution and mining task coordination with concurrency.
 - **🧠 [Face Classification and Verification](https://github.com/ketanML/face-classification-verification)**: Built CNN-based ResNet-34 models for face classification and verification, ranking in the top 5% on Kaggle.
 - **🎤 [Speech Recognition System](https://github.com/ketanML/speech-recognition)**: Achieved 86% accuracy in speech classification using neural networks and frame-level classification.
 - **📈 [Stock Predictive Model](https://github.com/KetanML/Stock-Predictive-Model)**: Developed a predictive model utilizing CNN, LSTM, and Transformer architectures to integrate sentiment analysis with stock price data, achieving a 95% reduction in MSE to 0.00008 compared to initial baseline models.
